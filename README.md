@@ -1,0 +1,2 @@
+## Goal:  
+In this data challenge, the goal is to predict the percentage of face occlusion based on a dataset of 100,000 human face images. The challenge also emphasizes achieving similar prediction performance across both genders, with gender labels provided for training. The evaluation metric involves calculating the error for both male and female faces separately, and then combining the errors to produce a final score, encouraging fairness in model predictions for both genders.
